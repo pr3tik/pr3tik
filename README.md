@@ -5,7 +5,7 @@
 - 💻 Aspiring Full Stack Web Developer
 - 🌱 Currently learning: HTML, CSS, JavaScript
 - 🎯 Goal: Building real-world web applications
-- 📫 Reach me at: [your email]
+- 📫 Reach me at: [pratik2k08@gmail.com]
 
 ## What I'm Working On
 - Completing freeCodeCamp Responsive Web Design certification
