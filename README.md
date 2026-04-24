@@ -1,54 +1,45 @@
-# Hi, I'm [Pratik Alt] 👋
+# Hey, I'm pratik 👋
 
-## About Me
-- 🎓 B.Tech CS Student | Maharashtra, India
-- 💻 Aspiring Full Stack Web Developer
-- 🌱 Currently learning: HTML, CSS, JavaScript
-- 🎯 Goal: Building real-world web applications
-- 📫 Reach me at: [pratik2k08@gmail.com]
+> "The quieter you become, the more you can hear." — Kali Linux motto
 
-## What I'm Working On
-- Completing freeCodeCamp Responsive Web Design certification
-- Building my first static web projects
-- Learning JavaScript fundamentals
+## 🔐 About Me
+- 🎯 Cybersecurity enthusiast on a mission
+- 📱 Hacking from Android using Termux
+- 🐧 Linux lover & CTF player
+- 🌱 Currently learning Ethical Hacking from scratch
+- 💀 ex-Full Stack Dev → now breaking things legally
 
-## Tech Stack (In Progress)
+## 🛠️ Tools & Skills
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
 
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
 
-## Goals for This Year
-- [ ] Complete HTML & CSS
-- [ ] Build 3 projects
-- [ ] Learn JavaScript basics
-- [ ] Create first full webpage from scratch
+## 🎯 Current Progress
+- ✅ TryHackMe Pre-Security
+- ✅ OverTheWire Bandit (in progress)
+- ✅ picoCTF Challenges (in progress)
+- ⏳ PortSwigger Web Academy (coming soon)
 
----
-*"Consistent effort beats occasional brilliance."*## Hi there 👋
+## 📂 My Repos
+| Repo | Description |
+|------|-------------|
+| 🔐 cybersecurity-journey | My daily hacking practice & notes |
 
-<!--
-**pr3tik/pr3tik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pr3tik&show_icons=true&theme=dark)
+
+
