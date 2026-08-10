@@ -1,4 +1,4 @@
-# Hey, I'm pratik 👋
+# I'm pratik 
 
 > "The quieter you become, the more you can hear." — Kali Linux motto
 
