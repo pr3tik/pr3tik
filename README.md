@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Pratik&fontSize=46&fontAlignY=44&fontColor=e8e8e8&desc=full-stack%20%C2%B7%20Pune%20%C2%B7%20building%20%40burnix%2Fcli&descSize=18&descAlignY=65" alt="Pratik — full-stack, Pune, building @burnix/cli" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com/">
+<a href="https://readme-typing-svg.demolab.com/">      
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=740&height=45&lines=Full-stack+engineer+in+Pune;I+ship+things%2C+break+them+under+load%2C+then+write+down+why;Currently%3A+hard+spend+caps+for+LLM+API+calls" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://www.npmjs.com/package/@burnix/cli">npm</a> &nbsp;·&nbsp;
-  <a href="https://github.com/pr3tik/pr3tik/blob/main/Pratik_Resume.pdf">resume</a> &nbsp;·&nbsp;
   <a href="mailto:pratik2k08@gmail.com">email</a>
 </p>
 
