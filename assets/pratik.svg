@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" role="img" aria-label="Pratik Alhat">
+  <defs>
+    <mask id="reveal">
+      <path d="M20,55.0 L58,253.1 L96,51.9 L134,276.1 L172,60.9 L210,255.4 L248,46.6 L286,272.4 L324,65.3 L362,260.2 L400,43.5 L438,266.8 L476,67.0 L514,266.3 L552,43.3 L590,260.7 L628,65.6 L666,272.0 L704,46.3 L742,255.7 L780,61.3 L818,275.9 L856,51.5 L894,253.2 L932,55.5 L970,277.0 L1008,57.6 L1046,253.7 L1084,49.5 L1122,274.9 L1160,63.0"
+            fill="none" stroke="#fff" stroke-width="96" stroke-linecap="round"
+            stroke-dasharray="6400" stroke-dashoffset="6400">
+        <animate attributeName="stroke-dashoffset" dur="5s" from="6400" to="0" fill="freeze"/>
+      </path>
+    </mask>
+  </defs>
+
+  <g mask="url(#reveal)">
+    <text x="600" y="205" text-anchor="middle"
+          font-family="Segoe Script, 'Brush Script MT', 'Snell Roundhand', 'Apple Chancery', cursive"
+          font-size="168" font-weight="400"
+          fill="#E8873A" stroke="#E8873A" stroke-width="1.5">Pratik Alhat</text>
+  </g>
+</svg>
