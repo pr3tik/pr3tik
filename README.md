@@ -1,7 +1,7 @@
 <img src="assets/pratik.svg" alt="Pratik Alhat" width="100%">
 
 <p align="center">
-Full-stack, based in Pune. I build AI products end to end Postgres schema through serverless endpoints to UI — and tooling for the operational edges of LLM systems: cost, limits, behaviour under load.
+Full-stack, based in Pune. I build AI products end to end Postgres schema through serverless endpoints to UI and tooling for the operational edges of LLM systems: cost, limits, behaviour under load.
 </p>
 
 <br>
