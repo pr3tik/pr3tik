@@ -11,7 +11,7 @@ Full-stack, based in Pune. I build AI products end to end Postgres schema throug
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/">LinkedIn</a>
+<a href="www.linkedin.com/in/pratikalt">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="https://www.npmjs.com/package/@burnix/cli">npm</a>
 &nbsp;·&nbsp;
